@@ -1,4 +1,4 @@
-# React + Vite
+# RA1-2
 
 ## [Ссылка на дэмо](https://sergexy.github.io/ra1-2/)
 
